@@ -28,13 +28,13 @@
 ```
 ดังปรากฏในบรรทัดที่ 9 ของรูปด้านล่าง 
 
-![](https://github.com/settapong123/LAB-04/blob/master/imgs/lab4.JPG?raw=true)
+![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P6.png)
  
  * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
 
 ####บันทึกผลการทดลอง
 
-![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P6.png)
+![](https://github.com/settapong123/LAB-04/blob/master/imgs/lab4.JPG?raw=true )
 
 
 แก้ไขโปรแกรม ให้เป็นดังรูปด้านล่างนี้    

@@ -28,7 +28,7 @@
 ```
 ดังปรากฏในบรรทัดที่ 9 ของรูปด้านล่าง 
 
-![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P3.png)
+![](https://github.com/settapong123/LAB-04/blob/master/imgs/lab4.JPG?raw=true)
  
  * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
 
